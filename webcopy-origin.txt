@@ -1,0 +1,168 @@
+Uri: https://chewytoken.com/
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\index.htm
+Content Type: text/html
+
+Uri: https://chewytoken.com/favicon.png
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\favicon.png
+Content Type: image/png
+
+Uri: https://chewytoken.com/_next/image?url=%2Fimages%2Floading.gif&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\loading-4.gif
+Content Type: image/gif
+
+Uri: https://chewytoken.com/_next/image?url=%2Fimages%2Floading.gif&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\loading-5.gif
+Content Type: image/gif
+
+Uri: https://chewytoken.com/_next/image?url=%2Fimages%2Floading.gif&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\loading-6.gif
+Content Type: image/gif
+
+Uri: https://chewytoken.com/_next/image?url=%2Fimages%2Floading.gif&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\loading-7.gif
+Content Type: image/gif
+
+Uri: https://chewytoken.com/_next/image?url=%2Fimages%2Floading.gif&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\loading.gif
+Content Type: image/gif
+
+Uri: https://chewytoken.com/_next/image?url=%2Fimages%2Floading.gif&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\loading-1.gif
+Content Type: image/gif
+
+Uri: https://chewytoken.com/_next/image?url=%2Fimages%2Floading.gif&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\loading-2.gif
+Content Type: image/gif
+
+Uri: https://chewytoken.com/_next/image?url=%2Fimages%2Floading.gif&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\loading-3.gif
+Content Type: image/gif
+
+Uri: https://chewytoken.com/_next/static/chunks/433-83cb59b68fdd8774.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\433-83cb59b68fdd8774.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/53c13509-308ea39ba0bd7561.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\53c13509-308ea39ba0bd7561.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/578c2090-ad36c67b62479442.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\578c2090-ad36c67b62479442.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/59650de3-c2e777f8d639c5f7.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\59650de3-c2e777f8d639c5f7.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/66ec4792-3fd58f270d2b3913.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\66ec4792-3fd58f270d2b3913.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/69-8ad26963e717e5cb.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\69-8ad26963e717e5cb.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/749-6a92f92b543e5848.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\749-6a92f92b543e5848.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/757-cd909fa54ac28d41.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\757-cd909fa54ac28d41.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/836-738d785610e96ce0.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\836-738d785610e96ce0.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/8e1d74a4-0c22985d8b8145f8.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\8e1d74a4-0c22985d8b8145f8.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/928-1385a137bf764e25.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\928-1385a137bf764e25.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/9c4e2130-7f44744243bc4351.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\9c4e2130-7f44744243bc4351.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/app/layout-b71c21d58af64cd5.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\app\layout-b71c21d58af64cd5.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/app/loading-94806011a9d08b8c.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\app\loading-94806011a9d08b8c.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/app/page-04770fb096b33205.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\app\page-04770fb096b33205.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/b56196ea-7698865a1cf9ddd8.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\b56196ea-7698865a1cf9ddd8.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/c15bf2b0-4cc2eb5df8ff853e.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\c15bf2b0-4cc2eb5df8ff853e.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/fd9d1056-38ad4a7638cb1951.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\fd9d1056-38ad4a7638cb1951.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/main-app-f5c8d25c8479457f.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\main-app-f5c8d25c8479457f.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/chunks/webpack-be97c56b4ca96b4b.js
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\chunks\webpack-be97c56b4ca96b4b.js
+Content Type: application/javascript
+
+Uri: https://chewytoken.com/_next/static/css/f830483c97b0c604.css
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\css\f830483c97b0c604.css
+Content Type: text/css
+
+Uri: https://chewytoken.com/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://chewytoken.com/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://chewytoken.com/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://chewytoken.com/_next/static/media/BellotaText-Bold.b31ba17e.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\BellotaText-Bold.b31ba17e.ttf
+Content Type: font/ttf
+
+Uri: https://chewytoken.com/_next/static/media/BellotaText-Regular.ba03ab50.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\BellotaText-Regular.ba03ab50.ttf
+Content Type: font/ttf
+
+Uri: https://chewytoken.com/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://chewytoken.com/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://chewytoken.com/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://chewytoken.com/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+
+Uri: https://chewytoken.com/_next/static/media/SundayBest.5b7eb137.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\chewytoken.com\_next\static\media\SundayBest.5b7eb137.ttf
+Content Type: font/ttf
+
